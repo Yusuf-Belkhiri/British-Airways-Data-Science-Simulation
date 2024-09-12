@@ -1,5 +1,5 @@
 # British-Airways-Data-Science-Simulation
-Data science virtual internship program by British Airways through Forage/
+Data science job simulation program by British Airways through Forage/
 # Part 1
 - Applying webscraping in unstructured text data taken from the https://www.airlinequality.com/airline-reviews/british-airways
 - Conduct sentiment analysis on the collected customer reviews to categorize them into positive and negative feedback.
